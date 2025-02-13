@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 I’m currently third year CS student
-- 🧠 I’m interseted in AI and web development
-- 📖 I’m looking for knowlege and learning 
-- 👩‍💻 A good python develpor
+🎓 3rd-year Computer Science student 
+🧠 Interested in Machine Learning & Web Development
+💡 Always learning and building cool projects! 
+🐍 A good python develpor
 
 
 
